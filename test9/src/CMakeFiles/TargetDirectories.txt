@@ -1,0 +1,5 @@
+/root/cmakeDIR/cmake-demo/test9/src/CMakeFiles/rebuild_cache.dir
+/root/cmakeDIR/cmake-demo/test9/src/CMakeFiles/edit_cache.dir
+/root/cmakeDIR/cmake-demo/test9/src/src/CMakeFiles/rebuild_cache.dir
+/root/cmakeDIR/cmake-demo/test9/src/src/CMakeFiles/main1.dir
+/root/cmakeDIR/cmake-demo/test9/src/src/CMakeFiles/edit_cache.dir
